@@ -10,7 +10,7 @@
     "snowpack": "^3.0.1"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "express-favicon": "^2.0.1",
     "express-rate-limit": "^5.2.5",
     "helmet": "^4.4.1",
